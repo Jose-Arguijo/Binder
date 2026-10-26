@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "Binder — Collection Tracker",
+  "short_name": "Binder",
+  "description": "A beautiful, private home for every card in your collection.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f4f2eb",
+  "theme_color": "#2c6f68",
+  "categories": ["lifestyle", "utilities"],
+  "icons": [
+    { "src": "./icons/binder-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/binder-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/binder-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
